@@ -165,17 +165,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 - `npm run lint` — Runs ESLint checks across all project files.
 
 ---
-
-## 🔒 Privacy & AI Ethics Principles
-
-Neenja is built under strict user privacy and transparency principles:
-1. **Consent-First Processing**: Documents are never shared with AI models without affirmative user consent.
-2. **Provenance & Verification**: Every extracted data point clearly indicates whether it is user-confirmed, AI-extracted, or inferred.
-3. **Transparent Evidence**: Calculations cite exact official rates (such as HMRC tax tables or GOV.UK Living Wage guidelines) along with data freshness dates.
-4. **No Opaque Scoring**: Mathematical breakdowns are exposed so users understand precisely how estimates are determined.
-
----
-
-## 📄 License
-
-Private repository. All rights reserved.
